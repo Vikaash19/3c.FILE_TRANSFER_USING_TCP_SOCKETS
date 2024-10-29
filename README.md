@@ -1,6 +1,6 @@
 # 3c.CREATION FOR FILE TRANSFER USING TCP SOCKETS
 ### Name: Vikaash K S
-### Register NUmber: 212223240179
+### Register Number: 212223240179
 ## AIM
 To write a python program for creating File Transfer using TCP Sockets Links
 ## ALGORITHM:
